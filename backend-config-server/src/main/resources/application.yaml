@@ -7,6 +7,6 @@ spring:
     config:
       server:
         git:
-          default-label: master
-          uri: https://github.com/BenjaminGonzalezH/TopEducation_MS
+          default-label: main
+          uri: https://github.com/EnzoGulppi/TopEducation_MS
           search-paths: "config-data"
